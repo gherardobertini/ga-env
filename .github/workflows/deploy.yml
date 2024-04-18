@@ -9,7 +9,7 @@ env:
 jobs:
   test:
     env:
-      MONGODB_CLUSTER_NAME: cluster0.ekkuh2r.mongodb.net
+      MONGODB_CLUSTER_ADDRESS: cluster0.ekkuh2r.mongodb.net
       MONGODB_USERNAME: gherardo
       MONGODB_PASSWORD: iZtybiJRj7iYZM4R
       PORT: 8080
